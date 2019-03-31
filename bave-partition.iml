@@ -7,6 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/programs/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/programs/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
