@@ -39,8 +39,8 @@ interface ICDroppingProbability {
         if (endPos < 0 || endPos > baveLength) {
             throw IllegalArgumentException("Expected the parameter {0 <= endPos <= $baveLength},but get {endPos = $endPos}.")
         }
-        if (startPos >= endPos) {
-            throw IllegalArgumentException("Expected the parameter {startPos < endPos},but get {startPos = $startPos,endPos = $endPos}.")
+        if (startPos > endPos) {
+            throw IllegalArgumentException("Expected the parameter {startPos <= endPos},but get {startPos = $startPos,endPos = $endPos}.")
         }
         return Math.exp(-integrate(startPos, endPos))
     }
@@ -77,8 +77,8 @@ interface ICQuadraticDroppingProbability : ICDroppingProbability {
         if (endPos < 0 || endPos > baveLength) {
             throw IllegalArgumentException("Expected the parameter {0 <= endPos <= $baveLength},but get {endPos = $endPos}.")
         }
-        if (startPos >= endPos) {
-            throw IllegalArgumentException("Expected the parameter {startPos < endPos},but get {startPos = $startPos,endPos = $endPos}.")
+        if (startPos > endPos) {
+            throw IllegalArgumentException("Expected the parameter {startPos <= endPos},but get {startPos = $startPos,endPos = $endPos}.")
         }
         return integral(startPos, endPos)
     }
