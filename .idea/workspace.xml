@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40835476-b3a0-4c41-9d38-cf0396100b2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programs/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/programs/output/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/math/stat/random/RandomDataGenerator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/math/stat/random/RandomDataGenerator.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,16 +18,29 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/out/ReadMe.txt" />
         <option value="$PROJECT_DIR$/lib/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/math/stat/random/RandomDataGenerator.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -54,62 +61,6 @@
             <path>
               <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
               <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bave-partition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bave-partition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,12 +113,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554181537240</updated>
-      <workItem from="1554181538653" duration="981000" />
+      <workItem from="1554181538653" duration="1698000" />
     </task>
+    <task id="LOCAL-00001" summary="Update 2019-04-01">
+      <created>1554182980535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554182980535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="981000" />
+    <option name="totallyTimeSpent" value="1698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -200,6 +159,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 2019-04-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2019-04-01" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/other/Placeholder.txt">
@@ -250,5 +213,91 @@
     <entry file="file://$PROJECT_DIR$/programs/ReadMe.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/cn/edu/gxust/jiweihuang/kotlin/math/stat/random/RandomDataGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bave-partition</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31029412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
