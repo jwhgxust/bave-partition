@@ -12,15 +12,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="combinatoricslib3-3.3.0" level="application" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="guava-27.1-jre" level="application" />
     <orderEntry type="library" name="hipparchus-core-1.4" level="application" />
     <orderEntry type="library" name="hipparchus-stat-1.4" level="application" />
     <orderEntry type="library" name="jcommon-1.0.24" level="application" />
     <orderEntry type="library" name="jfreechart-1.5.0" level="application" />
-    <orderEntry type="library" name="jfreesvg-3.4" level="application" />
+    <orderEntry type="library" name="jfreesvg-3.3" level="application" />
     <orderEntry type="library" name="orsoncharts-1.7" level="application" />
-    <orderEntry type="library" name="orsonpdf-1.9" level="application" />
-    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="orsonpdf-1.8" level="application" />
   </component>
 </module>
