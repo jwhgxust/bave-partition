@@ -4,11 +4,12 @@ import cn.edu.gxust.jiweihuang.kotlin.math.function.univariate.IUnivariateIntegr
 
 import org.hipparchus.special.Gamma
 import java.lang.Math.pow
+import java.lang.Math.sqrt
 import kotlin.math.pow
 
 class FinitedNormalDistribution(mean: Double = 1.0, val halfLimit: Double,val order: Int = 3,
                                 solverAbsoluteAccuracy: Double = DEFAULT_SOLVER_ABSOLUTE_ACCURACY) :
-        RestrictedNormalDistribution(mean, (pow(halfLimit, 2.0) / ((2.0 * order) + 3.0)), halfLimit, solverAbsoluteAccuracy),
+        RestrictedNormalDistribution(mean, sqrt(pow(halfLimit, 2.0) / ((2.0 * order) + 3.0)), halfLimit, solverAbsoluteAccuracy),
         IUnivariateIntegrableFunction {
     override val formula: String
         get() = ""
